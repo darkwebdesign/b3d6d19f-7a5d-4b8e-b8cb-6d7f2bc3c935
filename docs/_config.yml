@@ -1,5 +1,15 @@
 # architect, midnight, tactile
 #theme: jekyll-theme-midnight
 
-# kasper, rosario/kasper, just-the-docs, just-the-docs/just-the-docs
-remote_theme: just-the-docs/just-the-docs
+# kasper, rosario/kasper, jjust-the-docs/just-the-docs
+#remote_theme: just-the-docs/just-the-docs
+
+
+title: YOUR TITLE
+description: YOUR DESCRIPTION
+theme: just-the-docs
+
+url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME

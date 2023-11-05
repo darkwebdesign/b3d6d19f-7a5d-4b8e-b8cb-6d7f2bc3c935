@@ -4,3 +4,24 @@ title: Symfony Add-on Pack
 description: Symfony Add-on Pack is a collection of extra Symfony components that you can use in your Symfony applications.
 url: https://www.darkwebdesign.nl/
 repository: darkwebdesign/symfony-addon-pack
+
+collections:
+  1.0:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+  2.0:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+
+just_the_docs:
+  collections:
+    1.0:
+      name: v1.0
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: true
+    2.0:
+      name: v2.0
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false

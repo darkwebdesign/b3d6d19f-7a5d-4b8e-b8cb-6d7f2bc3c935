@@ -1,6 +1,5 @@
 ---
-parent: docs/2.0/utilities/utilities
-permalink: docs/2.0/utilities/typography
+parent: /2.0/utilities/utilities
 ---
 
 # Typography Utilities

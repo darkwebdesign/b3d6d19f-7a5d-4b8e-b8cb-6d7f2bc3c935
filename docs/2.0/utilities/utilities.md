@@ -1,6 +1,5 @@
 ---
 has_children: true
-permalink: docs/2.0/utilities
 ---
 
 # Utilities

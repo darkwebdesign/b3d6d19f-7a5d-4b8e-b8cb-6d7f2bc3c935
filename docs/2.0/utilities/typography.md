@@ -1,5 +1,5 @@
 ---
-parent: /2.0/utilities/utilities
+parent: /2.0/utilities.html
 ---
 
 # Typography Utilities

@@ -5,22 +5,14 @@ title: Configuration
 
 # Configuration
 
-{: .danger }
-You are browsing the documentation for a version that is no longer maintained.
-
 {: .warning }
 You are browsing the documentation for a version that is no longer maintained.
 
 {: .info }
-You are browsing the documentation for a version that is no longer maintained.
-
-{: .red }
-You are browsing the documentation for a version that is no longer maintained.
+This is an info callout.
 
 {: .yellow }
-You are browsing the documentation for a version that is no longer maintained.
-
-{: .blue }
-You are browsing the documentation for a version that is no longer maintained.
+> This is a multi-line
+> yellow callout.
 
 Configuration v1.0

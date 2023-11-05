@@ -6,18 +6,12 @@ description: Symfony Add-on Pack is a collection of extra Symfony components tha
 aux_links:
   Visit repository on GitHub: https://github.com/darkwebdesign/symfony-addon-pack
 
-#index_page: _v2_0/configuration.md
-index_page: test.md
-
 collections:
   v2_0:
     permalink: '/docs/2.0/:path:output_ext'
     output: true
   v1_0:
     permalink: '/docs/1.0/:path:output_ext'
-    output: true
-  latest:
-    permalink: '/docs/:collection/:path:output_ext'
     output: true
   test:
     permalink: '/docs/:collection/:path:output_ext'
@@ -33,11 +27,6 @@ just_the_docs:
     v1_0:
       name: v1.0
       nav_exclude: false
-      nav_fold: true
-      search_exclude: true
-    latest:
-      name: Latest
-      nav_exclude: true
       nav_fold: true
       search_exclude: true
     test:

@@ -154,7 +154,7 @@ To load a local version of mermaid, also use the `path` key to specify the locat
 
 ```yaml
 mermaid:
-  version: "10._test_collection_1"
+  version: "10._1.0"
   # for (v10+)
   path: "/assets/js/mermaid.esm.min.mjs"
   # for (<v10):

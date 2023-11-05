@@ -14,4 +14,4 @@ url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
 
-search_enabled: false
+#search_enabled: false

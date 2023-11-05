@@ -1,23 +1,17 @@
-# Top level header, aka H1
+# Symfony Add-on Pack Documentation
 
-H1 is the most important header.
+## Getting Started
 
-## Second level header
+Start here to learn the essentials about developing web applications with the Symfony Add-on Pack.
 
-This gets converted to an H2
+* [Setup](setup.md)
 
-### Third-level header
+## Reference
 
-Most search engines index only up to H3 for searches
+* [Reference Documents](reference/index.md)
 
-#### Level 4 header, aka H4
+## Links
 
-People remember only about 3 levels of a hierarchy
-
-##### H5
-
-Who goes this low? and why?
-
-###### H6
-
-A level 6 header is used only by spelunkers.
+* [Repository](https://github.com/darkwebdesign/symfony-addon-pack)
+* [Issue Tracker](https://github.com/darkwebdesign/symfony-addon-pack/issues)
+* [Project Board](https://github.com/darkwebdesign/symfony-addon-pack/projects/1)

@@ -12,7 +12,7 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
+View this site's `_config.yml` file as an example.
 
 ## Site logo
 
@@ -68,7 +68,7 @@ search:
 New (v0.4.0)
 {: .label .label-green }
 
-The minimum configuration requires the key for `version` ([from jsDelivr](https://cdn.jsdelivr.net/npm/mermaid/)) in `_config.yml`:
+The minimum configuration requires the key for `version` in `_config.yml`:
 
 ```yaml
 mermaid:
@@ -79,7 +79,7 @@ mermaid:
 
 Provide a `path` instead of a `version` key to load the mermaid library from a local file.
 
-See [the Code documentation]({% link docs/ui-components/code.md %}#mermaid-diagram-code-blocks) for more configuration options and information.
+See the Code documentation for more configuration options and information.
 
 ## Aux links
 
@@ -110,7 +110,7 @@ New (v0.4.0)
 {: .label .label-green }
 
 External links can be added to the navigation through the `nav_external_links` option.
-See [Navigation Structure]({% link docs/navigation-structure.md %}#external-navigation-links) for more details.
+See Navigation Structure for more details.
 
 ## Footer content
 
@@ -166,7 +166,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-See [Customization]({% link docs/customization.md %}) for more information.
+See Customization for more information.
 
 ## Callouts
 {: .d-inline-block }
@@ -223,7 +223,7 @@ The value of `callouts_level` is either `quiet` or `loud`;
 The default level is `quiet` when using the `light` or custom color schemes,
 and `loud` when using the `dark color scheme.`
 
-See [Callouts]({% link docs/ui-components/callouts.md %}) for more information.
+See Callouts for more information.
 
 ## Google Analytics
 

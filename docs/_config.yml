@@ -36,8 +36,20 @@ just_the_docs:
       search_exclude: true
 
 callouts:
+  info:
+    title: Info
+    color: blue
   warning:
     title: Warning
+    color: yellow
+  danger:
+    title: Danger
+    color: red
+  blue:
+    color: blue
+  yellow:
+    color: yellow
+  red:
     color: red
 
 plugins:

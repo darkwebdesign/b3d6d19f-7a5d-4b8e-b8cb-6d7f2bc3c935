@@ -45,22 +45,20 @@ callouts:
   danger:
     title: Danger
     color: red
-  blue:
-    color: blue
-  yellow:
-    color: yellow
-  red:
-    color: red
   grey-lt:
     color: grey-lt
   grey-dk:
     color: grey-dk
   purple:
     color: purple
-  pink:
-    color: pink
+  blue:
+    color: blue
   green:
     color: green
+  yellow:
+    color: yellow
+  red:
+    color: red
 
 plugins:
   - jekyll-redirect-from

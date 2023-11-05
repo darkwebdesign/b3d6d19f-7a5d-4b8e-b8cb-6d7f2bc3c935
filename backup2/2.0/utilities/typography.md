@@ -1,6 +1,6 @@
 ---
-section_id: 2.0-utilities-typography
-in_section: 2.0-utilities
+section_id: test_collection_2-utilities-typography
+in_section: test_collection_2-utilities
 parent: Utilities
 ---
 

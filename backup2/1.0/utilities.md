@@ -1,5 +1,5 @@
 ---
-section_id: 1.0-utilities
+section_id: test_collection_1-utilities
 has_children: true
 ---
 

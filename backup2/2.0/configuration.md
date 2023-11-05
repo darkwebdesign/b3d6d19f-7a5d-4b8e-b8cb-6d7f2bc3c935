@@ -1,6 +1,6 @@
 ---
-section_id: 2.0-configuration
-permalink: docs/2.0/configuration
+section_id: test_collection_2-configuration
+permalink: docs/test_collection_2/configuration
 ---
 
 # Configuration

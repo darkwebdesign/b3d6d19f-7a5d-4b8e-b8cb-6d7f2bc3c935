@@ -1,6 +1,6 @@
 ---
-section_id: 1.0-customization
-permalink: docs/1.0/customization
+section_id: test_collection_1-customization
+permalink: docs/test_collection_1/customization
 ---
 
 # Customization

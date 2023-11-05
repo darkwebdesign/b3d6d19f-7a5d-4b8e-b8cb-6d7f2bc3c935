@@ -6,21 +6,21 @@ url: https://www.darkwebdesign.nl/
 repository: darkwebdesign/symfony-addon-pack
 
 collections:
-  1.0:
+  test_collection_1:
     permalink: "/:collection/:path:output_ext"
     output: true
-  2.0:
+  test_collection_2:
     permalink: "/:collection/:path:output_ext"
     output: true
 
 just_the_docs:
   collections:
-    1.0:
+    test_collection_1:
       name: v1.0
       nav_exclude: false
       nav_fold: true
       search_exclude: true
-    2.0:
+    test_collection_2:
       name: v2.0
       nav_exclude: false
       nav_fold: true

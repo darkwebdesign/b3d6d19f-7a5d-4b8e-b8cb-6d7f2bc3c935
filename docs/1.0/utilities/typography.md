@@ -1,5 +1,5 @@
 ---
-parent: /1.0/utilities
+parent: /docs/1.0/utilities/utilities
 permalink: docs/1.0/utilities/typography
 ---
 

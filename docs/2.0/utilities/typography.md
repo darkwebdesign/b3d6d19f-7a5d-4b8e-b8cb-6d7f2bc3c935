@@ -1,5 +1,7 @@
 ---
-parent: /2.0/utilities.html
+section_id: 2.0-utilities-typography
+in_section: 2.0-utilities
+parent: Utilities
 ---
 
 # Typography Utilities

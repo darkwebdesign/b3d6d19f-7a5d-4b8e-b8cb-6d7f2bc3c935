@@ -1,4 +1,5 @@
 ---
+section_id: 1.0-customization
 permalink: docs/1.0/customization
 ---
 

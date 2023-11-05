@@ -2,7 +2,8 @@
 layout: default
 title: Configuration
 redirect_from:
-  - /docs/latest/configuration2
+  - /
+  - /docs/latest/configuration
 ---
 
 # Configuration

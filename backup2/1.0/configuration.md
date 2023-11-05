@@ -1,6 +1,6 @@
 ---
-section_id: _1.0-configuration
-permalink: docs/_1.0/configuration
+section_id: _v1_0-configuration
+permalink: docs/_v1_0/configuration
 ---
 
 # Configuration

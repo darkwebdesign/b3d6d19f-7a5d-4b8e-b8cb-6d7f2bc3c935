@@ -51,6 +51,11 @@ callouts:
     color: yellow
   red:
     color: red
+  grey-lt:
+    color: grey-lt
+  grey-dk:
+    color: grey-dk
+
 
 plugins:
   - jekyll-redirect-from

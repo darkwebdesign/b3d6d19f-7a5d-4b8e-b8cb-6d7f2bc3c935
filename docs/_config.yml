@@ -1,3 +1,5 @@
 # architect, midnight, tactile
 #theme: jekyll-theme-midnight
-remote_theme: rosario/kasper
+
+# kasper, rosario/kasper
+remote_theme: just-the-docs

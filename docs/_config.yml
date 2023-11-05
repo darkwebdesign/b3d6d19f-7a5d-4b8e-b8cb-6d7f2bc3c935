@@ -35,5 +35,10 @@ just_the_docs:
       nav_fold: true
       search_exclude: true
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 plugins:
   - jekyll-redirect-from

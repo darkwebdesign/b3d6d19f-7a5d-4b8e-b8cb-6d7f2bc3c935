@@ -6,13 +6,6 @@ description: Symfony Add-on Pack is a collection of extra Symfony components tha
 aux_links:
   Visit repository on GitHub: https://github.com/darkwebdesign/symfony-addon-pack
 
-#defaults:
-#  -
-#    scope:
-#      path: ''
-#    values:
-#      layout: "default"
-
 collections:
   v2_0:
     permalink: '/docs/2.0/:path:output_ext'

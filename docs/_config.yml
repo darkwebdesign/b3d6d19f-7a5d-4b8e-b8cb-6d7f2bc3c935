@@ -2,8 +2,9 @@ remote_theme: just-the-docs/just-the-docs
 
 title: Symfony Add-on Pack
 description: Symfony Add-on Pack is a collection of extra Symfony components that you can use in your Symfony applications.
-url: https://www.darkwebdesign.nl/
-repository: darkwebdesign/symfony-addon-pack
+
+aux_links:
+  Template Repository: https://github.com/darkwebdesign/symfony-addon-pack
 
 collections:
   v2_0:

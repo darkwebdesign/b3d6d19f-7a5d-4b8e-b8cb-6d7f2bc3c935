@@ -8,7 +8,7 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 https://docs.github.com/en/pages
 https://jekyllrb.com/docs/configuration/
-
+https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site
 
 https://darkwebdesign.github.io/b3d6d19f-7a5d-4b8e-b8cb-6d7f2bc3c935
 

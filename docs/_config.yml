@@ -4,7 +4,7 @@ title: Symfony Add-on Pack
 description: Symfony Add-on Pack is a collection of extra Symfony components that you can use in your Symfony applications.
 
 aux_links:
-  Template Repository: https://github.com/darkwebdesign/symfony-addon-pack
+  Visit repository on GitHub: https://github.com/darkwebdesign/symfony-addon-pack
 
 collections:
   v2_0:

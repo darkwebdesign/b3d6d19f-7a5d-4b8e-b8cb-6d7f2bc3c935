@@ -3,6 +3,7 @@ layout: default
 title: Data transformers
 nav_order: 3
 has_children: true
+toc: false
 redirect_from:
   - /docs/latest/transformers
 ---

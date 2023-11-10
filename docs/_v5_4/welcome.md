@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Welcome
+nav_order: 1
+redirect_from:
+  - /
+  - /docs
 ---
 
 # Symfony Add-on Pack

@@ -1,11 +1,6 @@
 ---
 layout: default
 title: Welcome
-redirect_from:
-  - /
-  - /docs
-  - /docs/5.4
-  - /docs/latest
 ---
 
 # Symfony Add-on Pack

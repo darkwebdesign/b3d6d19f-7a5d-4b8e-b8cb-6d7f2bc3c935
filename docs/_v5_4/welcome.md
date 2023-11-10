@@ -9,6 +9,7 @@ redirect_from:
   - /docs/5.4/
   - /docs/latest
   - /docs/latest/
+  - /docs/latest/welcome
 ---
 
 # Symfony Add-on Pack

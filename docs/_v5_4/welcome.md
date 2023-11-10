@@ -6,7 +6,7 @@ redirect_from:
   - /
   - /docs
   - /docs/
-  - /docs/5.4
+  - /docs/5.4/
 ---
 
 # Symfony Add-on Pack

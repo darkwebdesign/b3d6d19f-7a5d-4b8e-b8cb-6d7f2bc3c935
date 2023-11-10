@@ -27,7 +27,7 @@ just_the_docs:
     v5_4:
       name: v5.4 (latest)
       nav_exclude: false
-      nav_fold: false
+      nav_fold: true
       search_exclude: false
     v5_3:
       name: v5.3

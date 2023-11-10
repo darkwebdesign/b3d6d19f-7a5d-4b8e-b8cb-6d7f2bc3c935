@@ -5,6 +5,7 @@ nav_order: 1
 redirect_from:
   - /
   - /docs
+  - /docs/
 ---
 
 # Symfony Add-on Pack

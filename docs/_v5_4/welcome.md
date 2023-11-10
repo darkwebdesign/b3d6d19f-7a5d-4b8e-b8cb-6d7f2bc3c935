@@ -14,6 +14,11 @@ redirect_from:
 
 # Symfony Add-on Pack
 
+[![Build Status](https://app.travis-ci.com/darkwebdesign/symfony-addon-pack.svg?branch=5.4)](https://app.travis-ci.com/darkwebdesign/symfony-addon-pack)
+[![Coverage Status](https://codecov.io/gh/darkwebdesign/symfony-addon-pack/branch/5.4/graph/badge.svg)](https://codecov.io/gh/darkwebdesign/symfony-addon-pack)
+[![PHP Version](https://img.shields.io/badge/php-7.2%2B-777BB3.svg)](https://php.net/)
+[![Symfony Version](https://img.shields.io/badge/symfony-5.4-93C74B.svg)](https://symfony.com/)
+
 Symfony Add-on Pack is a collection of extra Symfony components that you can use in your Symfony applications.
 
 ## Features

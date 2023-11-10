@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Validation Constraints
-nav_order: 4
+nav_order: 6
 has_children: true
 redirect_from:
   - /docs/latest/constraints
@@ -18,12 +18,12 @@ The following constraints are available:
 
 ### String Constraints
 
-* [Json](json.md)
+* [Json](constraints/json.md)
 
 ### Number Constraints
 
-* [Bsn](bsn.md)
+* [Bsn](constraints/bsn.md)
 
 ### Collection Constraints
 
-* [Collection](collection.md)
+* [Collection](constraints/collection.md)

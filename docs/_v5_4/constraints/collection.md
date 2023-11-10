@@ -12,10 +12,9 @@ This constraint is used when the underlying data is a collection (i.e. an array 
 you'd like to validate every item of that collection against one or more constraints. For example, you might validate a
 collection of email addresses using the `Email` and `NotBlank` constraint.
 
-```text
-Note: In contradiction to the Collection constraint provided by Symfony, this constraint is used to validate every
-      item in a collection against the same set of constraints.
-```
+{: .info }
+In contradiction to the Collection constraint provided by Symfony, this constraint is used to validate every item in a
+collection against the same set of constraints.
 
 Applies to:
 

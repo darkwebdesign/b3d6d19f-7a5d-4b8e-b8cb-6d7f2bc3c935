@@ -10,11 +10,10 @@ redirect_from:
 
 This form field type is used to transform user entered identifiers to Doctrine entities.
 
-```text
-Note: In contradiction to the EntityType provided by symfony/doctrine-bridge, this form field type does *not*
-      retrieve all entities in order to display them in your forms, which is particulary usefull when your working
-      with large data sets, or if you are using a custom search/select field that retrieves the data via an API.
-```
+{: .info }
+In contradiction to the EntityType provided by symfony/doctrine-bridge, this form field type does *not* retrieve all
+entities in order to display them in your forms, which is particularly useful when your working with large data sets, or
+if you are using a custom search/select field that retrieves the data via an API.
 
 Rendered as:
 

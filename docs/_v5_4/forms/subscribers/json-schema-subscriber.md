@@ -1,5 +1,6 @@
 ---
 layout: default
+title: JsonSchemaSubscriber
 parent: Form Field Event Subscribers
 redirect_from:
   - /docs/latest/forms/subscribers/json-schema-subscriber

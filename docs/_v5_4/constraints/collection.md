@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Collection
 parent: Validation Constraints
 redirect_from:
   - /docs/latest/constraints/collection

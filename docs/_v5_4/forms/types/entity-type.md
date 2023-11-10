@@ -1,5 +1,6 @@
 ---
 layout: default
+title: EntityType
 parent: Form Field Types
 redirect_from:
   - /docs/latest/forms/types/birthday-type

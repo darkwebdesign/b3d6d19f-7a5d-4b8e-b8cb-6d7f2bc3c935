@@ -5,7 +5,6 @@ nav_order: 1
 redirect_from:
   - /
   - /docs
-  - /docs/
   - /docs/5.4/
 ---
 

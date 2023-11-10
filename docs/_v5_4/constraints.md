@@ -18,12 +18,12 @@ The following constraints are available:
 
 ### String Constraints
 
-* [Json]({% post_url constraints/json %})
+* [Json](constraints/json.html)
 
 ### Number Constraints
 
-* [Bsn]({% post_url constraints/bsn %})
+* [Bsn](constraints/bsn.html)
 
 ### Collection Constraints
 
-* [Collection]({% post_url constraints/collection %})
+* [Collection](constraints/collection.html)

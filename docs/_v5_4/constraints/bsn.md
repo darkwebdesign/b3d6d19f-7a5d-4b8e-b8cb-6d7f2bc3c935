@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Bsn
 parent: Validation Constraints
 redirect_from:
   - /docs/latest/constraints/bsn

@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Getting started
 nav_order: 2
 redirect_from:
   - /docs/latest/getting-started
 ---
 
-# Getting started
+# Getting Started
 
 Start here to learn the essentials about developing web applications with the Symfony Add-on Pack.
 

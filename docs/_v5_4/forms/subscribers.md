@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Form Field Event Subscribers
-nav_order: 5
 has_children: true
 redirect_from:
   - /docs/latest/forms/subscribers
@@ -9,8 +7,9 @@ redirect_from:
 
 # Form Field Event Subscribers
 
-A form is composed of fields, each of which are built with the help of a field type (e.g. `TextType`, `ChoiceType`, etc.). The
-Symfony Add-on Pack comes with additional field event subscribers that can be used in your application.
+A form is composed of fields, each of which are built with the help of a field type (e.g. `TextType`,
+`ChoiceType`, etc.). The Symfony Add-on Pack comes with additional field event subscribers that can be
+used in your application.
 
 ## Supported Field Event Subscribers
 

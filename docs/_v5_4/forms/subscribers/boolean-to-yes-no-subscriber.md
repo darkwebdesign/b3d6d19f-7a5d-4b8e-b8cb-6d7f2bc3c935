@@ -1,6 +1,5 @@
 ---
 layout: default
-title: BooleanToYesNoSubscriber
 parent: Form Field Event Subscribers
 redirect_from:
   - /docs/latest/forms/subscribers/boolean-to-yes-no-subscriber
@@ -8,8 +7,8 @@ redirect_from:
 
 # BooleanToYesNoSubscriber
 
-This form field event subscriber is used to rewrite boolean values to "yes" or "no", so that pure boolean values can be
-processed and used in combination with the `BooleanType` field type.
+This form field event subscriber is used to rewrite boolean values to "yes" or "no", so that pure boolean
+values can be processed and used in combination with the `BooleanType` field type.
 
 ## Basic Usage
 

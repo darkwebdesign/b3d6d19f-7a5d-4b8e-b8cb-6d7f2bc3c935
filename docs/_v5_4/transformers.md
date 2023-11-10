@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Data Transformers
-nav_order: 3
 has_children: true
 redirect_from:
   - /docs/latest/transformers

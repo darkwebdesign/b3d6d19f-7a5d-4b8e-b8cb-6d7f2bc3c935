@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Validation Constraints
-nav_order: 6
 has_children: true
 redirect_from:
   - /docs/latest/constraints

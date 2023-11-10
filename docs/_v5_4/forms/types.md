@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Form Field Types
-nav_order: 4
 has_children: true
 redirect_from:
   - /docs/latest/forms/types

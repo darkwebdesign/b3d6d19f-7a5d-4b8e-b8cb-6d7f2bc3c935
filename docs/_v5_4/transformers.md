@@ -9,8 +9,9 @@ redirect_from:
 
 # Data Transformers
 
-You'll often find the need to transform the data the user entered in a form into something else for use in your program. You
-could easily do this manually in your controller, but what if you want to use this specific form in different places?
+You'll often find the need to transform the data the user entered in a form into something else for use in
+your program. You could easily do this manually in your controller, but what if you want to use this
+specific form in different places?
 
 This is where Data Transformers come into play.
 

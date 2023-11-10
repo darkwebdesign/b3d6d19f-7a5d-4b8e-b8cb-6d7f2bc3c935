@@ -11,9 +11,10 @@ redirect_from:
 This form field type is used to handle unstructured data.
 
 {: .info }
-Prior to Symfony Forms 3.4.21, it was possible to submit unstructured data to *any* form field type. This was considered
-a security hole and therefore patched, leaving a lot of people with no alternative to handle unstructured data in their
-forms. This form field type has been created to support unstructured data again.
+Prior to Symfony Forms 3.4.21, it was possible to submit unstructured data to *any* form field type.
+This was considered a security hole and therefore patched, leaving a lot of people with no easy
+alternative to handle unstructured data in their forms. This form field type has been created to
+support unstructured data again.
 
 Overridden options:
 

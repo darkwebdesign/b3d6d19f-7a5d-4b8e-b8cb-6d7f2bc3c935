@@ -11,9 +11,10 @@ redirect_from:
 This form field type is used to transform user entered identifiers to Doctrine entities.
 
 {: .info }
-In contradiction to the EntityType provided by `symfony/doctrine-bridge`, this form field type does *not* retrieve all
-entities in order to display them in your forms, which is particularly useful when your working with large data sets, or
-if you are using a custom search/select field that retrieves the data via an API.
+In contradiction to the EntityType provided by `symfony/doctrine-bridge`, this form field type does ***not***
+retrieve all entities in order to display them in your forms, which is particularly useful when you are
+working with large data sets, or if you are using a custom search/select field that retrieves the data
+via an API.
 
 Rendered as:
 
@@ -65,8 +66,8 @@ DarkWebDesign\SymfonyAddonFormTypes\EntityType:
 
 **type**: `string` **required**
 
-The class of your entity (e.g. `AppBundle:Category`). This can be a fully-qualified class name (e.g. `AppBundle\Entity\Category`)
-or the short alias name (as shown prior).
+The class of your entity (e.g. `AppBundle:Category`). This can be a fully-qualified class name (e.g.
+`AppBundle\Entity\Category`) or the short alias name (as shown prior).
 
 ### entity_manager
 
@@ -80,5 +81,5 @@ If specified, this entity manager will be used to load the entity instead of the
 
 **type**: `boolean` **default**: `false`
 
-This option specifies whether the type contains child types or not. This option is managed internally for built-in types, so there
-is no need to configure it explicitly.
+This option specifies whether the type contains child types or not. This option is managed internally for
+built-in types, so there is no need to configure it explicitly.

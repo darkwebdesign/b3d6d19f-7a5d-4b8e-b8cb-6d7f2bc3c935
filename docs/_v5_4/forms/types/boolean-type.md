@@ -11,8 +11,8 @@ redirect_from:
 This form field type is used to transform user selected values to booleans.
 
 {: .info }
-In contradiction to the CheckboxType provided by Symfony, this form field type offers a tri-state boolean
-(true/false/null), as well as a traditional boolean, supporting multiple rendering widgets.
+In contradiction to the CheckboxType provided by Symfony, this form field type offers a tri-state
+boolean (true/false/null), as well as a traditional boolean, supporting multiple rendering widgets.
 
 Rendered as:
 

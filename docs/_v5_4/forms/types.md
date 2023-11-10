@@ -9,8 +9,9 @@ redirect_from:
 
 # Form Field Types
 
-A form is composed of fields, each of which are built with the help of a field type (e.g. `TextType`, `ChoiceType`, etc). The
-Symfony Add-on Pack comes with additional field types that can be used in your application.
+A form is composed of fields, each of which are built with the help of a field type (e.g. `TextType`,
+`ChoiceType`, etc.). The Symfony Add-on Pack comes with additional field types that can be used in your
+application.
 
 ## Supported Field Types
 

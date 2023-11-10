@@ -20,8 +20,8 @@ The following transformers are available:
 
 ### Scalar Transformers
 
-* [BooleanToValueTransformer](transformers/boolean-to-value-transformer.md)
+* [BooleanToValueTransformer]({% link transformers/boolean-to-value-transformer.md %})
 
 ### Other Transformers
 
-* [EntityToIdentifierTransformer](transformers/entity-to-identifier-transformer.md)
+* [EntityToIdentifierTransformer]({% link transformers/entity-to-identifier-transformer.md %})

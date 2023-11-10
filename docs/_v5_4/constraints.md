@@ -18,12 +18,12 @@ The following constraints are available:
 
 ### String Constraints
 
-* [Json](constraints/json.md)
+* [Json]({% link constraints/json.md %})
 
 ### Number Constraints
 
-* [Bsn](constraints/bsn.md)
+* [Bsn]({% link constraints/bsn.md %})
 
 ### Collection Constraints
 
-* [Collection](constraints/collection.md)
+* [Collection]({% link constraints/collection.md %})

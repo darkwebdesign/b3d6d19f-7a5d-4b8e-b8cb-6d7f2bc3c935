@@ -18,10 +18,10 @@ The following field types are available:
 
 ### Date and Time Fields
 
-* [BirthdayType](types/birthday-type.md)
+* [BirthdayType]({% link types/birthday-type.md %})
 
 ### Other Fields
 
-* [BooleanType](types/boolean-type.md)
-* [EntityType](types/entity-type.md)
-* [UnstructuredType](types/unstructured-type.md)
+* [BooleanType]({% link types/boolean-type.md %})
+* [EntityType]({% link types/entity-type.md %})
+* [UnstructuredType]({% link types/unstructured-type.md %})

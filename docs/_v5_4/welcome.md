@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Welcome
-permalink: /docs/index.html
 redirect_from:
   - /
   - /docs
-  - /docs/
+  - /docs/5.4
+  - /docs/latest
 ---
 
 # Symfony Add-on Pack

@@ -22,6 +22,6 @@ The following field types are available:
 
 ### Other Fields
 
-* [BooleanType]({% link types/boolean-type.md %})
-* [EntityType]({% link types/entity-type.md %})
-* [UnstructuredType]({% link types/unstructured-type.md %})
+* [BooleanType]({% post_url types/boolean-type %})
+* [EntityType]({% post_url types/entity-type %})
+* [UnstructuredType]({% post_url types/unstructured-type %})

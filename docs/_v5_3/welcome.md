@@ -8,9 +8,9 @@ redirect_from:
 
 # Symfony Add-on Bundle
 
-[![Build Status](https://app.travis-ci.com/darkwebdesign/symfony-addon-bundle.svg?branch=4.3)](https://app.travis-ci.com/darkwebdesign/symfony-addon-bundle)
+[![Build Status](https://app.travis-ci.com/darkwebdesign/symfony-addon-bundle.svg?branch=5.3)](https://app.travis-ci.com/darkwebdesign/symfony-addon-bundle)
 [![PHP Version](https://img.shields.io/badge/php-7.2%2B-777BB3.svg)](https://php.net/)
-[![Symfony Version](https://img.shields.io/badge/symfony-4.3-93C74B.svg)](https://symfony.com/)
+[![Symfony Version](https://img.shields.io/badge/symfony-5.3-93C74B.svg)](https://symfony.com/)
 [![License](https://poser.pugx.org/darkwebdesign/symfony-addon-bundle/license?format=flat)](https://packagist.org/packages/darkwebdesign/symfony-addon-bundle)
 
 Symfony Add-on Bundle conveniently wraps the [Symfony Add-on Pack](https://github.com/darkwebdesign/symfony-addon-pack) with a Symfony Bundle that you can use

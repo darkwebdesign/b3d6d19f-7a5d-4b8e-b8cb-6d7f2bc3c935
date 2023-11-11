@@ -18,9 +18,19 @@ If you don't have Composer installed in your computer, start by [installing Comp
 execute the following commands to install the required dependencies:
 
 ```bash
-composer require darkwebdesign/symfony-addon-pack
+composer require darkwebdesign/symfony-addon-bundle
 ```
 
 ```bash
 composer install
+```
+
+### Enabling the bundle in Symfony
+
+```php
+// config/bundles.php
+return [
+    // ...
+    DarkWebDesign\SymfonyAddonBundle\DarkWebDesignSymfonyAddonBundle::class => ['all' => true],
+];
 ```

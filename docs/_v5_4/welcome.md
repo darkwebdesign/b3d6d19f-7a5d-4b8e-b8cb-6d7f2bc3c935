@@ -17,11 +17,11 @@ redirect_from:
 [![Build Status](https://app.travis-ci.com/darkwebdesign/symfony-addon-bundle.svg?branch=5.4)](https://app.travis-ci.com/darkwebdesign/symfony-addon-bundle)
 [![PHP Version](https://img.shields.io/badge/php-7.2%2B-777BB3.svg)](https://php.net/)
 [![Symfony Version](https://img.shields.io/badge/symfony-5.4-93C74B.svg)](https://symfony.com/)
-[![License](https://poser.pugx.org/darkwebdesign/symfony-addon-pack/license?format=flat)](https://packagist.org/packages/darkwebdesign/symfony-addon-pack)
+[![License](https://poser.pugx.org/darkwebdesign/symfony-addon-bundle/license?format=flat)](https://packagist.org/packages/darkwebdesign/symfony-addon-bundle)
 
 Symfony Add-on Bundle conveniently wraps the [Symfony Add-on Pack](https://github.com/darkwebdesign/symfony-addon-pack) with a Symfony Bundle that you can use
 in your Symfony applications.
 
 ## License
 
-Symfony Add-on Pack is licensed under the MIT License - see the `LICENSE` file for details.
+Symfony Add-on Bundle is licensed under the MIT License - see the `LICENSE` file for details.

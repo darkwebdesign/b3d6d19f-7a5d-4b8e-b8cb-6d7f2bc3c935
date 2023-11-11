@@ -19,7 +19,7 @@ redirect_from:
 [![Symfony Version](https://img.shields.io/badge/symfony-5.4-93C74B.svg)](https://symfony.com/)
 [![License](https://poser.pugx.org/darkwebdesign/symfony-addon-bundle/license?format=flat)](https://packagist.org/packages/darkwebdesign/symfony-addon-bundle)
 
-Symfony Add-on Bundle conveniently wraps the [Symfony Add-on Pack](https://github.com/darkwebdesign/symfony-addon-pack) with a Symfony Bundle that you can use
+Symfony Add-on Bundle conveniently wraps the [Symfony Add-on Pack](https://darkwebdesign.github.io/symfony-addon-pack/docs/5.4) with a Symfony Bundle that you can use
 in your Symfony applications.
 
 ## License
